@@ -1,0 +1,10 @@
+{
+  "name": "02-work-queues",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
